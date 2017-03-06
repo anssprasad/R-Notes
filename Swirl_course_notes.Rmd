@@ -14,4 +14,4 @@ Arguments
 ...	
 objects to be concatenated.
 recursive	
-logical. /bIf recursive = TRUE, the function recursively descends through lists (and pairlists) combining all their elements into a vector./b
+logical. *If recursive = TRUE, the function recursively descends through lists (and pairlists) combining all their elements into a vector*.
