@@ -1,4 +1,4 @@
-#Combine Values into a Vector or List
+# c {base} Combine Values into a Vector or List
 
 ##Description
 
